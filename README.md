@@ -10,6 +10,7 @@ Estudiante actual del Instituto Tecnológico de Tijuana:
 - 🔧 En bachillerato tuve experiencia con *Soporte y Mantenimiento*
 - 🌐 ... y algo de capacitación respecto a **redes**.
 - 💻 Actualmente estudiando Ingeniería en Sistemas Computacionales
+- 🔤 Buen nivel de inglés
 
 **Horario actual**
 | Hora (PM) 	| Lunes                         	| Martes                        	| Miercoles                     	| Jueves                        	| Viernes                      	|
