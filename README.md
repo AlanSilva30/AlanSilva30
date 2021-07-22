@@ -12,13 +12,4 @@ Estudiante actual del Instituto Tecnológico de Tijuana:
 - 💻 Actualmente estudiando Ingeniería en Sistemas Computacionales
 - 🔤 Buen nivel de inglés
 
-**Horario actual**
-| Hora (PM) 	| Lunes                         	| Martes                        	| Miercoles                     	| Jueves                        	| Viernes                      	|
-|-----------	|-------------------------------	|-------------------------------	|-------------------------------	|-------------------------------	|------------------------------	|
-| 1:00      	| Taller de base de datos       	| Taller de base de datos       	| Taller de base de datos       	| Taller de base de datos       	|                              	|
-| 2:00      	| Lenguajes de interfaz         	| Lenguajes de interfaz         	| Lenguajes de interfaz         	| Lenguajes de interfaz         	|                              	|
-| 3:00      	| Ingeniería de Software        	| Ingeniería de Software        	| Ingeniería de Software        	| Ingeniería de Software        	| Ingeniería de Software       	|
-| 4:00      	| Arquitectura de Computadoras  	| Arquitectura de Computadoras  	| Arquitectura de Computadoras  	| Arquitectura de Computadoras  	| Arquitectura de Computadoras 	|
-| 5:00      	| Lenguajes  y automatas        	| Lenguajes  y automatas        	| Lenguajes  y automatas        	| Lenguajes  y automatas        	| Lenguajes  y automatas       	|
-| 6:00      	| Redes de computadoras         	| Redes de computadoras         	| Redes de computadoras         	| Redes de computadoras         	| Redes de computadoras        	|
-| 7:00      	| Taller de Sistemas Operativos 	| Taller de Sistemas Operativos 	| Taller de Sistemas Operativos 	| Taller de Sistemas Operativos 	|                              	|
+PERIODO VACACIONAL
